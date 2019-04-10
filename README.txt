@@ -1,12 +1,13 @@
-Weizi Cai
-cai.590@OSU.EDU
-
-CSE 3461 LAB2
-TCP socket file transfer
-
 This is the README file
 
-by submitting this file, I certify that all contained files are my original work
+
+            simple project to transfer files using TCP socket
+                                  supports 
+                              txt,jpg,mp4,ect.
+                               
+                       Copyright (C) 2019 Weizi Cai
+                       cai.590@buckeyemail.osu.edu
+                       
 
 To use my program:
 
